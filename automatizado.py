@@ -9,8 +9,8 @@ import pandas as pd
 import time
 
 # Configuração de variáveis
-EMAIL = "jhonathancardosol.2017@gmail.com"
-SENHA = "Electabuzz1"
+EMAIL = "############@gmail.com"
+SENHA = "############"
 SITE_LOGIN = "https://service.telecontrol.com.br"
 SITE_BUSCA = (
     "https://service.telecontrol.com.br/os?data_inicial=04/12/2023&data_final=04/12/2024&contexto_data=digitacao"
